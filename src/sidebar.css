@@ -1,0 +1,6 @@
+.sideBar {
+    height: 500px;
+    width: 200px;
+    border: solid black 2px;
+    display: grid;
+}
